@@ -16,7 +16,7 @@
 }
 #icat-bber .icat-timeline #waterfall .icat-bber-item {
   position: relative;
-  width: 30%;
+  width: 49%;
   border: var(--style-border-always);
   border-radius: 12px;
   padding: 1rem 1rem 0.9rem;
@@ -89,7 +89,7 @@
   border-radius: 6px;
 }
 #icat-bber .icat-bber-container-img .imgbox .icat-bber-content-img {
-  height: 100px;
+  height: 400px;
   display: flex;
   position: relative;
 }
